@@ -2,6 +2,12 @@ body {
   background-color: lightblue;
 }
 
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 h1 {
   color: white;
   text-align: center;
